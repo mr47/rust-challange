@@ -1,0 +1,6 @@
+[package]
+name = "svp"
+version = "0.1.0"
+authors = ["dmitry.poddubniy <mr4700@gmail.com>"]
+
+[dependencies]
